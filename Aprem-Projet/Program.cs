@@ -10,6 +10,11 @@ namespace Aprem_Projet
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("N'importe quoi");
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("aejzidohgfzoeughzel");
+            Console.WriteLine();
+            //azerd
         }
     }
 }
