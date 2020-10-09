@@ -15,6 +15,7 @@ namespace Aprem_Projet
             Console.WriteLine("aejzidohgfzoeughzel");
             Console.WriteLine();
             //azerd
+            Console.Beep(123);
         }
     }
 }
